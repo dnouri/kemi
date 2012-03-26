@@ -1,8 +1,8 @@
 kemi
 ====
 
-Kemi is an add-on for SQLAlchemy_ that aims to make defining relations
-with declarative style classes easier.
+kemi is an add-on for SQLAlchemy_ that aims to make defining relations
+with declarative easier for the most common cases.
 
 Consider this example from the SQLAlchemy docs::
 
