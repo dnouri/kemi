@@ -14,7 +14,7 @@ tests_require = [
 
 setup(name='kemi',
       version='0.1dev',
-      description="",
+      description="kemi uses conventions to make SQLAlchemy declarative-style classes less verbose",
       long_description=README,
       classifiers=[
           "Intended Audience :: Developers",
